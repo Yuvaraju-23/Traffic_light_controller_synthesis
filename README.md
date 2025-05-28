@@ -6,6 +6,8 @@ Synthesize Traffic Light Controller design using Constraints and analyse area an
 
 ## Tool Required:
 
+Program:
+
 `timescale 1 ns / 1 ps
 
 module TrafficLight(input clk, //LED_NS represent the North-South LEDs
